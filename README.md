@@ -1,3 +1,9 @@
 # learnshell
 
-#learning shell
+#learning shell 
+
+printing
+variables
+conditions
+functions
+loops
